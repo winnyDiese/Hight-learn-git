@@ -1,0 +1,4 @@
+
+commande : git push --set-upstream origin dev
+- permet d'envoyer la branche dev sur github
+
